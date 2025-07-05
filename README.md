@@ -1,22 +1,3 @@
-####                                                             iiii
-####                                                            i::::i
-####                                                             iiii
-####
-#### vvvvvvv           vvvvvvvaaaaaaaaaaaaa  nnnn  nnnnnnnn    iiiiiii
-####  v:::::v         v:::::v a::::::::::::a n:::nn::::::::nn  i:::::i
-####   v:::::v       v:::::v  aaaaaaaaa:::::an::::::::::::::nn  i::::i
-####    v:::::v     v:::::v            a::::ann:::::::::::::::n i::::i
-####     v:::::v   v:::::v      aaaaaaa:::::a  n:::::nnnn:::::n i::::i
-####      v:::::v v:::::v     aa::::::::::::a  n::::n    n::::n i::::i
-####       v:::::v:::::v     a::::aaaa::::::a  n::::n    n::::n i::::i
-####        v:::::::::v     a::::a    a:::::a  n::::n    n::::n i::::i
-####         v:::::::v      a::::a    a:::::a  n::::n    n::::ni::::::i
-####          v:::::v       a:::::aaaa::::::a  n::::n    n::::ni::::::i
-####           v:::v         a::::::::::aa:::a n::::n    n::::ni::::::i
-####            vvv           aaaaaaaaaa  aaaa nnnnnn    nnnnnniiiiiiii
-####
-####                                         -Your own personal Assistant
-
 
 #### Video Demo:  https://youtu.be/Jw4GI6R_o-o?si=GgZhNYenJ36uPOSm
 
